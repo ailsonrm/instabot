@@ -50,6 +50,6 @@ yarn build
 Released in 2020 :rocket:
 
 Made by [Ailson R. Moreira](https://github.com/ailsonrm).
-©️ This project is under the [MIT license]().
+©️ This project is under the [MIT license](https://github.com/ailsonrm/instabot/blob/master/LICENSE).
 
 Give a ⭐️ if this project helped you!
