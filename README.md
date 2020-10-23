@@ -1,6 +1,6 @@
 # 🤖 Instabot
 
-Project to get instagram and download last post photos
+Project to get and download last post photos from Instagram 📷
 
 # Description
 
