@@ -15,10 +15,8 @@ let browser
 const instaBaseURL = 'https://www.instagram.com/'
 const instaLoginURL = 'accounts/login/'
 
-//const l4fUser = 'ailson.rmoreira@gmail.com'
-//const l4fPass = '417502ARM'
-const l4fUser = 'l4f_store'
-const l4fPass = 'cgsw45d12lff'
+const l4fUser = 'your_user'
+const l4fPass = 'your_pass'
 let posts = []
 let links = []
 
